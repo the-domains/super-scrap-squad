@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Super Scrap Squad]]></title>
         <description><![CDATA[Super Scrap Squad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/super-scrap-squad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 21:16:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 21:42:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/super-scrap-squad/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nautical Rope Bracelets | Recycled Jewelry | Marine Debris Awareness]]></title>
+            <description><![CDATA[<article><h1>Nautical Rope Bracelets | Recycled Jewelry | Marine Debris Awareness</h1><p>Marine debris awareness bracelets. Planet Love Life bracelets are made out of recycled nautical rope collected on beach cleanup projects. Help clean the planet!</p><img src="http://cdn.shopify.com/s/files/1/0886/7052/t/2/assets/logo.png?1188758096498078179"></article>]]></description>
+            <link>http://www.planetlovelife.com/</link>
+            <guid isPermaLink="false">28fbd7da-2533-4ee0-a100-6897102858dc</guid>
+            <pubDate>Mon, 23 Nov 2015 21:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In the beginning....]]></title>
             <description><![CDATA[<article><h1>In the beginning....</h1><p>What if the future has come for the present? </p></article>]]></description>
-            <link>undefinedin-the-beginning/index.html</link>
+            <link>https://thegrid.ai/super-scrap-squad/in-the-beginning/index.html</link>
             <guid isPermaLink="false">1c93cb1f-1c0c-4656-a0c9-2590cfd5bb51</guid>
             <pubDate>Mon, 23 Nov 2015 21:16:49 GMT</pubDate>
         </item>
