@@ -1,0 +1,28 @@
+name: Super Scrap Squad
+favicon: null
+layout_spectrum: 0.7177496878430247
+typography_spectrum: 0.9223170438781381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9123220348265022
+  lightness: 0.7579831434413791
+  saturation: 0.10340868728235364
+  rhythmicContrast: 0.7550473492592573
+purpose: []
