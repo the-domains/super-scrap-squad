@@ -1,7 +1,7 @@
 name: Super Scrap Squad
 favicon: null
-layout_spectrum: 0.40337
-typography_spectrum: 0.9543
+layout_spectrum: 0.49205
+typography_spectrum: 0.63166
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#ec1b1e'
     - '#2c100f'
     - '#64a0a8'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 0.625
   saturation: 0.4375
   rhythmicContrast: 0.5
